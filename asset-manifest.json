@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-breakingbad-api/static/css/main.3bf270d5.css",
+    "main.js": "/react-breakingbad-api/static/js/main.939711f3.js",
+    "static/js/787.baa8748a.chunk.js": "/react-breakingbad-api/static/js/787.baa8748a.chunk.js",
+    "index.html": "/react-breakingbad-api/index.html",
+    "main.3bf270d5.css.map": "/react-breakingbad-api/static/css/main.3bf270d5.css.map",
+    "main.939711f3.js.map": "/react-breakingbad-api/static/js/main.939711f3.js.map",
+    "787.baa8748a.chunk.js.map": "/react-breakingbad-api/static/js/787.baa8748a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3bf270d5.css",
+    "static/js/main.939711f3.js"
+  ]
+}
